@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503874722566",
+    "project_id": "e-tournament-app-95b12",
+    "storage_bucket": "e-tournament-app-95b12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503874722566:android:3f5d3e07229d394ed11c87",
+        "android_client_info": {
+          "package_name": "com.example.e_tournament_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW9fK5cNzQ6dzSnBN7EJfTBrTd2QrJIKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
